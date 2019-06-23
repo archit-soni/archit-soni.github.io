@@ -137,6 +137,8 @@
   .masthead h2 {
     max-width: 30rem;
     font-size: 1.25rem;
+	margin-left: 50rem;
+	padding: 50rem;
   }
 }
 
