@@ -114,6 +114,7 @@
   max-width: 20rem;
   font-size: 1rem;
   margin-left: 35rem;
+  padding-left: 20rem;
 }
 
 @media (min-width: 768px) {
