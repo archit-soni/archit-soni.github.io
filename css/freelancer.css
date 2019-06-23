@@ -4755,6 +4755,10 @@ input[type="button"].btn-block {
   flex-wrap: nowrap;
 }
 
+.navbar-inner {
+    background:transparent;
+}
+
 .navbar-expand .navbar-collapse {
   display: -webkit-box !important;
   display: -ms-flexbox !important;
