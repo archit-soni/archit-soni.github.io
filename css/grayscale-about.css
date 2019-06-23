@@ -113,7 +113,7 @@
 .masthead h2 {
   max-width: 20rem;
   font-size: 1rem;
-  padding-left: 35rem;
+  margin-left: 35rem;
 }
 
 @media (min-width: 768px) {
