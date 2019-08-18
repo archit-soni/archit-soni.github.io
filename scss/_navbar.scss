@@ -29,7 +29,7 @@
       }
     }
   }
-  @media (min-width: 992px) {
+  @media (min-width: 200px) {
     padding-top: 0;
     padding-bottom: 0;
     border-bottom: none;
@@ -41,7 +41,7 @@
     }
     .nav-link {
       transition: none;
-      padding: 2rem 1.5rem;
+      padding: 1rem 0.1rem;
       color: fade-out($white, .5);
       &:hover {
         color: fade-out($white, .25);
