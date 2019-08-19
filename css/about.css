@@ -1,0 +1,92 @@
+.homepage{
+    margin-left: 45%;
+    text-decoration: underline;
+    color:white;
+}
+.navbar{
+    background: linear-gradient(to bottom, blue, indigo, black);
+}
+
+.aboutme{
+    margin-top: -10%;
+    padding-left: 35%;
+    border-top: solid;
+    border-top-color: indigo;
+    border-bottom: solid;
+    border-bottom-color: indigo;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    background: linear-gradient(45deg, transparent,white, transparent);
+    font-size: xx-large;
+}
+.skills{
+    text-align: center;
+}
+.aboutText{
+    margin-left: 33%;
+    padding-left: 3%;
+    margin-right: 20%;
+    color: white;
+    border: groove;
+    background: rgba(0, 0, 0, 0.445);
+    font-size: larger;
+    /* line-height: 2.5; */
+    font-family: monospace;    
+}
+
+.schoolName{
+    background: black;
+    color: white;
+    overflow-wrap: break-word;
+    margin-left: 50%;
+    width: 50%;
+}
+
+.schoolNameGS{
+    background: black;
+    color: white;
+    overflow-wrap: break-word;
+    width: 50%;
+    }
+
+.school{
+    height:auto;
+    width: 50%;
+    background: black;
+}
+
+.edbg{
+    background: linear-gradient(to bottom, white 2%, black 96%, white);
+}
+
+.education{
+    margin-top: 6%;
+    text-align: center;
+    /* background: linear-gradient(to right, grey 10%, white 50%, grey 90%); */
+    margin-left: 41%;
+    margin-right: 41%;
+    border-bottom-style: double;
+    border-top-style: double;
+    border-bottom-color: red;
+    border-top-color: red;
+}
+
+.image{
+    height: auto;
+    max-width: 30%;
+    padding-left: 3%;
+    padding-bottom: 15%;
+}
+
+.bdy{position: relative;
+    max-width: 100%;
+    height: auto;
+    min-height: 35rem;
+    padding: 10%;
+    background: linear-gradient(to bottom,rgba(22,22,22,.3) 0,rgba(93, 80, 115, 0.36) 50%,#000000 80%, #fffbfb 100%),url(../img/aboutme.png);
+    background-color: #221c2e;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+}
