@@ -1,10 +1,17 @@
+@font-face{
+    font-family: vertigo;
+    src: url(vertigo/VertigoFLF.ttf);
+}
+
 .homepage{
     margin-left: 45%;
     text-decoration: underline;
     color:white;
 }
 .navbar{
-    background: linear-gradient(to bottom, blue, indigo, black);
+    color: white;
+    background: black;
+
 }
 
 .aboutme{
@@ -35,7 +42,11 @@
 }
 
 .schoolName{
+    padding-left: 5%;
+    letter-spacing: 2px;
+    line-height: 3;
     margin-top: -10%;
+    font-family: "Arial Narrow";
     color: green;
     overflow-wrap: break-word;
     margin-left: 50%;
