@@ -35,11 +35,12 @@
 }
 
 .schoolName{
-    background: black;
-    color: white;
+    margin-top: -10%;
+    color: green;
     overflow-wrap: break-word;
     margin-left: 50%;
     width: 50%;
+    border-left-style: ridge
 }
 
 .schoolNameGS{
@@ -50,9 +51,12 @@
     }
 
 .school{
-    height:auto;
-    width: 50%;
-    background: black;
+    text-align: center;
+width: 50%;
+font-family: 'Crimson Text', serif;
+color: gray;
+font-style: italic;
+padding-top: 15%;
 }
 
 .edbg{
